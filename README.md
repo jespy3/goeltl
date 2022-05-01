@@ -4,6 +4,14 @@ This is a Golang written application to help me solve [Poeltl](https://poeltl.du
 
 ## Usage
 
+Run in devcontainer
+
 ```
 go run .
 ```
+
+## Testing
+
+- Run in devcontainer
+- cd `cd /workspaces/goeltl`
+- `go test -v`
